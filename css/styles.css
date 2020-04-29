@@ -1,0 +1,9 @@
+.container{
+  margin: 0 auto;
+  width:500px;
+  background-color: #FFFAFA;
+  border:solid thin #000;
+}
+.profile-photo{
+  text-align:center;
+}
